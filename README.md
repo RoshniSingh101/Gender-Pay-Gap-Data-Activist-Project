@@ -1,6 +1,6 @@
-# Empowering Data Part 4 Starter Code
+# Empowering Data
 
-This is a place for you to start building your Empowering Data Part 4 code!
+This is a place for you to start building your Empowering Data!
 
 ### Project Requirements
 Your project should:
@@ -42,12 +42,7 @@ This is where you will write your main program.
 ### ← GWCutilities.py
 A collection of utility functions for formatting output to the console in this project
 
-### ← livwell135.csv
-A subset of 135 columns from the LivWell dataset which contians data on the well-being of women in 52 countries.
- 
- https://www.kaggle.com/datasets/konradb/wellbeing-of-women-in-52-countries
+### ← glassdoor.csv
+A subset of nine columns from the Glassdoor dataset which contians data on 1000 men and women and their respective base pays, job titles, age, performance evaluations, education, departments, seniority, and bonuses.
 
- ### ← livwell175.csv
-A subset of 175 columns from the LivWell dataset which contians data on the well-being of women in 52 countries. 
-This data set has infromation in it which may be upsetting or difficult to understand for some people.
-There is a description of what additional information is in this file in Part 3 Step 1
+https://www.kaggle.com/datasets/nilimajauhari/glassdoor-analyze-gender-pay-gap
