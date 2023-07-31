@@ -121,4 +121,16 @@ plt.show()
 
 #------Data Analysis Conclusion-------
 
-print("\nWork-life balance and financial stability are reasons to close the gender pay gap; women across the nation are working tirelessly to support themselves and their families. The US Bureau of Labor Statistics 2022 report shows that full-time female employees earned only 82.9 percent of what full-time male employees earned; women are much more likely than men (61% vs. 37%) to assert that the reason for the gap is that employers treat women differently; 45% of women argue that a significant factor contributing to the pay gap is women making different choices about balancing work and family from men, according to Pew Research Center; however, 40% of men say they are less likely to hold that view; 48% of employed women report feeling pressure to focus on their responsibilities at home, compared with 35% of employed men; 67% of working mothers with children younger than 18 agree, compared to 45% of working dads, while working moms and dads (57% vs. 62%) report feeling pressure to support the family and unmarried working mothers also feel the same way (77%). The statistics and my data analysis promote the need for our society to push forward to close this pay gap. People need to work with local legislatures by calling and emailing them to have their voices heard. Women in the US are struggling, and the government needs to do more to push for equity in treatment, work benefits, and pay. Thank you so much for reading my data analysis, and I hope this opened a new perspective for you to think about!")
+print("Data Analysis:")
+
+print("\nWork-life balance and financial stability are reasons to close the gender pay gap; women across the nation are working tirelessly to support themselves and their families.")
+      
+print("\nThe US Bureau of Labor Statistics 2022 report shows that full-time female employees earned only 82.9 percent of what full-time male employees earned; women are much more likely than men (61% vs. 37%) to assert that the reason for the gap is that employers treat women differently; 45% of women argue that a significant factor contributing to the pay gap is women making different choices about balancing work and family from men, according to Pew Research Center; however, 40% of men say they are less likely to hold that view; 48% of employed women report feeling pressure to focus on their responsibilities at home, compared with 35% of employed men; 67% of working mothers with children younger than 18 agree, compared to 45% of working dads, while working moms and dads (57% vs. 62%) report feeling pressure to support the family and unmarried working mothers also feel the same way (77%).")
+
+print("\nThe statistics and my data analysis promote the need for our society to push forward to close this pay gap.")
+
+print("\nPeople need to work with local legislatures by calling and emailing them to have their voices heard.")
+
+print("\nWomen in the US are struggling, and the government needs to do more to push for equity in treatment, work benefits, and pay.")
+
+print("\nThank you so much for reading my data analysis, and I hope this opened a new perspective for you to think about!")
